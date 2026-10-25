@@ -1,5 +1,7 @@
 # causality-probe
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23649802.svg)](https://doi.org/10.5281/zenodo.23649802)
+
 **Detect look-ahead bias in backtest features, with positive controls.**
 [Versión en español](README.es.md)
 
@@ -102,7 +104,7 @@ pip install -e ".[test]" && pytest
 
 ## Cite
 
-See [CITATION.cff](CITATION.cff). Each release is archived on Zenodo with a DOI.
+Sandoval, H. (2026). *causality-probe: detecting look-ahead bias in backtest features with positive controls* (v0.1.0). Zenodo. https://doi.org/10.5281/zenodo.23649802 — see also [CITATION.cff](CITATION.cff).
 
 ## License
 

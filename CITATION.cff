@@ -4,6 +4,7 @@ title: "causality-probe: detecting look-ahead bias in backtest features with pos
 version: 0.1.0
 date-released: 2026-10-25
 license: MIT
+doi: 10.5281/zenodo.23649802
 authors:
   - family-names: Sandoval
     given-names: Héctor
