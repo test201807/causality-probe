@@ -37,7 +37,7 @@ in seconds. See [docs/mechanisms.md](docs/mechanisms.md).
 ## Install
 
 ```bash
-pip install git+https://github.com/<user>/causality-probe
+pip install git+https://github.com/test201807/causality-probe
 ```
 
 ## Use
