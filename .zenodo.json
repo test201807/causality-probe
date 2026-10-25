@@ -2,7 +2,19 @@
   "title": "causality-probe: detecting look-ahead bias in backtest features with positive controls",
   "upload_type": "software",
   "description": "Truncation-equivalence probe that detects look-ahead bias in backtest feature pipelines, with 11 positive and negative controls (including daily-resample and misaligned higher-timeframe leaks) and a static code scanner.",
-  "creators": [{"name": "Sandoval, Héctor", "affiliation": "BICAPITAL Research (independent), Ecuador"}],
+  "creators": [
+    {
+      "name": "Sandoval, Héctor",
+      "affiliation": "BICAPITAL Research (independent), Ecuador",
+      "orcid": "0009-0008-4411-9851"
+    }
+  ],
   "license": "MIT",
-  "keywords": ["backtesting", "look-ahead bias", "data leakage", "quantitative finance", "reproducibility"]
+  "keywords": [
+    "backtesting",
+    "look-ahead bias",
+    "data leakage",
+    "quantitative finance",
+    "reproducibility"
+  ]
 }
