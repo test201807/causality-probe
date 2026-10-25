@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "causality-probe: detecting look-ahead bias in backtest features with positive controls"
+version: 0.1.0
+date-released: 2026-10-25
+license: MIT
+authors:
+  - family-names: Sandoval
+    given-names: Héctor
+    affiliation: "BICAPITAL Research (independent), Ecuador"
+    # orcid: https://orcid.org/0000-0000-0000-0000   <- add after creating ORCID
+keywords: [backtesting, look-ahead bias, data leakage, quantitative finance, reproducibility]
